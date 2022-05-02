@@ -1,0 +1,10 @@
+GREEN, 24
+YELLOw, 47
+qwe, 12
+vdf, -123
+blue, 32
+RED, -23
+RED, 23
+BROWN, 78
+QWERT, 76
+ORANGE, 10
